@@ -7,7 +7,7 @@ English:
 - 🤔 I’m looking for help with how to use github.
 - 💬 Ask me about anything you would like to know.
 - 📫 How to reach me: emailpucdajulia@gmail.com (email) or @julia.g.simao (instagram) or Julia Simão (linkedln).
-- 😄 Pronouns: Sher/Her.
+- 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I love robotics and dream of working with it one day.
   
 Português:
