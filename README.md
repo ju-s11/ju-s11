@@ -2,7 +2,7 @@ English:
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on Team Soma from Tecgraf PUC-Rio.
+- 🔭 I’m currently working on team Soma from Tecgraf PUC-Rio.
 - 🌱 I’m currently learning Web-development and Angular.
 - 📫 How to reach me: emailpucdajulia@gmail.com (email) or Julia Simão (linkedln).
 - ⚡ Fun fact: I love robotics and dream of working with it one day.
