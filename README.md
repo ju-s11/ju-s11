@@ -2,8 +2,8 @@ English:
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on team Soma from Tecgraf PUC-Rio.
-- 🌱 I’m currently learning Web-development and Angular.
+- 🔭 I’m currently a exchange student at INSA-Lyon.
+- 🌱 I’m currently learning Computer Networks and Computer Acrchitecture.
 - 📫 How to reach me: emailpucdajulia@gmail.com (email) or Julia Simão (linkedln).
 - ⚡ Fun fact: I love robotics and dream of working with it one day.
   
@@ -11,8 +11,8 @@ Português:
 
 ## Olá 👋
 
-- 🔭 Estou trabalhando na equipe Soma do Tecgraf PUC-Rio.
-- 🌱 Estou aprendendo sobre Web-development e Angular.
+- 🔭 Estou fazendo intercâmbio no INSA-Lyon.
+- 🌱 Estou aprendendo sobre Redes e Arquitetura de Computadores.
 - 📫 Como me contactar: emailpucdajulia@gmail.com (email) or Julia Simão (linkedln).
 - ⚡ Curiosidade: Eu amo robótica e sonho de trabalhar com isso um dia.
 
