@@ -11,7 +11,7 @@ Português:
 
 ## Olá 👋
 
-- 🔭 Estou fazendo Iniciação Ciêntifica no laboratória AISE PUC-Rio.
+- 🔭 Estou fazendo Iniciação Ciêntifica no laboratório AISE PUC-Rio.
 - 🌱 Estou aprendendo sobre Redes e Arquitetura de Computadores.
 - 📫 Como me contactar: emailpucdajulia@gmail.com (email) or Julia Simão (linkedln).
 - ⚡ Curiosidade: Eu amo robótica e sonho de trabalhar com isso um dia.
