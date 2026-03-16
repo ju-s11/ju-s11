@@ -2,7 +2,7 @@ English:
 
 ## Hi there 👋
 
-- 🔭 I’m currently a exchange student at INSA-Lyon.
+- 🔭 I’m currently doing a undergraduate research at the AISE laboratory at PUC-Rio.
 - 🌱 I’m currently learning Computer Networks and Computer Acrchitecture.
 - 📫 How to reach me: emailpucdajulia@gmail.com (email) or Julia Simão (linkedln).
 - ⚡ Fun fact: I love robotics and dream of working with it one day.
@@ -11,7 +11,7 @@ Português:
 
 ## Olá 👋
 
-- 🔭 Estou fazendo intercâmbio no INSA-Lyon.
+- 🔭 Estou fazendo Iniciação Ciêntifica no laboratória AISE PUC-Rio.
 - 🌱 Estou aprendendo sobre Redes e Arquitetura de Computadores.
 - 📫 Como me contactar: emailpucdajulia@gmail.com (email) or Julia Simão (linkedln).
 - ⚡ Curiosidade: Eu amo robótica e sonho de trabalhar com isso um dia.
