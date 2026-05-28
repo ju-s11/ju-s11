@@ -2,8 +2,8 @@ English:
 
 ## Hi there 👋
 
-- 🔭 I’m currently doing a undergraduate research at the AISE laboratory at PUC-Rio.
-- 🌱 I’m currently learning Computer Networks and Computer Acrchitecture.
+- 🔭 I’m currently doing a undergraduate research at the AISE laboratory at PUC-Rio. Working on the **Snowmap** project.
+- 🌱 I’m currently learning Microcontrollers, Cloud Networks and Computer Architecture.
 - 📫 How to reach me: emailpucdajulia@gmail.com (email) or Julia Simão (linkedln).
 - ⚡ Fun fact: I love robotics and dream of working with it one day.
   
@@ -11,8 +11,8 @@ Português:
 
 ## Olá 👋
 
-- 🔭 Estou fazendo Iniciação Ciêntifica no laboratório AISE PUC-Rio.
-- 🌱 Estou aprendendo sobre Redes e Arquitetura de Computadores.
+- 🔭 Estou fazendo Iniciação Ciêntifica no laboratório AISE PUC-Rio. Colaborando no projeto **Snowmap**.
+- 🌱 Estou aprendendo sobre Microcontroladores, Redes em Nuvem e Arquitetura de Computadores.
 - 📫 Como me contactar: emailpucdajulia@gmail.com (email) or Julia Simão (linkedln).
 - ⚡ Curiosidade: Eu amo robótica e sonho de trabalhar com isso um dia.
 
